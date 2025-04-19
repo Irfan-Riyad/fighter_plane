@@ -19,9 +19,6 @@ Collect Power-Ups – Grab them for extra abilities
 Survive & Score – The longer you last, the higher your score
 
 Installation & Run ⚙️
-Clone the repo:
-git clone https://github.com/yourusername/plane-destroyer-pro.git
-cd plane-destroyer-pro
 
 Install dependencies (Python & PyGame required):
 pip install pygame
